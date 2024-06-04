@@ -1,0 +1,210 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-abandon---primary.py
+inputModule3:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-counselling---primary.py
+inputModule4:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-protect---primary.py
+inputModule5:
+  class: File
+  path: python/vpersonal-childhood-maltreatment-confirmed-maltreatment-phenotype---primary.py
+inputModule6:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-xmaltreatm---primary.py
+inputModule7:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-procedure---primary.py
+inputModule8:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-removed---primary.py
+inputModule9:
+  class: File
+  path: python/under-childhood-maltreatment-confirmed-maltreatment-phenotype---primary.py
+inputModule10:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-accidabandon---primary.py
+inputModule11:
+  class: File
+  path: python/physical-childhood-maltreatment-confirmed-maltreatment-phenotype---primary.py
+inputModule12:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-abandoned---primary.py
+inputModule13:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-investigation---primary.py
+inputModule14:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-description---primary.py
+inputModule15:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-conference---primary.py
+inputModule16:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-safeguarding---primary.py
+inputModule17:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-syndrno---primary.py
+inputModule18:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-category---primary.py
+inputModule19:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype---primary.py
+inputModule20:
+  class: File
+  path: python/genital-childhood-maltreatment-confirmed-maltreatment-phenotype---primary.py
+inputModule21:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-supervision---primary.py
+inputModule22:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-victim---primary.py
+inputModule23:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-vother---primary.py
+inputModule24:
+  class: File
+  path: python/nutritional-childhood-maltreatment-confirmed-maltreatment-phenotype---primary.py
+inputModule25:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-worker---primary.py
+inputModule26:
+  class: File
+  path: python/emotional-childhood-maltreatment-confirmed-maltreatment-phenotype---primary.py
+inputModule27:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-prostitute---primary.py
+inputModule28:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-court---primary.py
+inputModule29:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-exploitation---primary.py
+inputModule30:
+  class: File
+  path: python/domestic-childhood-maltreatment-confirmed-maltreatment-phenotype---primary.py
+inputModule31:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-abuse---primary.py
+inputModule32:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-organisation---primary.py
+inputModule33:
+  class: File
+  path: python/criminal-childhood-maltreatment-confirmed-maltreatment-phenotype---primary.py
+inputModule34:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-starvation---primary.py
+inputModule35:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-register---primary.py
+inputModule36:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-deprivation---primary.py
+inputModule37:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-history---primary.py
+inputModule38:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-incest---primary.py
+inputModule39:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-exposure---primary.py
+inputModule40:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-violence---primary.py
+inputModule41:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-torture---primary.py
+inputModule42:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-alleg---primary.py
+inputModule43:
+  class: File
+  path: python/longer-childhood-maltreatment-confirmed-maltreatment-phenotype---primary.py
+inputModule44:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-examination---primary.py
+inputModule45:
+  class: File
+  path: python/accident-childhood-maltreatment-confirmed-maltreatment-phenotype---primary.py
+inputModule46:
+  class: File
+  path: python/sexual-childhood-maltreatment-confirmed-maltreatment-phenotype---primary.py
+inputModule47:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-subject---primary.py
+inputModule48:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-scapegoating---primary.py
+inputModule49:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-unwanted---primary.py
+inputModule50:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-newborn---primary.py
+inputModule51:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-clitoridectomy---primary.py
+inputModule52:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-omission---primary.py
+inputModule53:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-deserted---primary.py
+inputModule54:
+  class: File
+  path: python/patient-childhood-maltreatment-confirmed-maltreatment-phenotype---primary.py
+inputModule55:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-learning---primary.py
+inputModule56:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-order---primary.py
+inputModule57:
+  class: File
+  path: python/medical-childhood-maltreatment-confirmed-maltreatment-phenotype---primary.py
+inputModule58:
+  class: File
+  path: python/psychological-childhood-maltreatment-confirmed-maltreatment-phenotype---primary.py
+inputModule59:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-munchausens---primary.py
+inputModule60:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-circumcision---primary.py
+inputModule61:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-meeting---primary.py
+inputModule62:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-forced---primary.py
+inputModule63:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-spouse---primary.py
+inputModule64:
+  class: File
+  path: python/personal-childhood-maltreatment-confirmed-maltreatment-phenotype---primary.py
+inputModule65:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-acquaintance---primary.py
+inputModule66:
+  class: File
+  path: python/parental-childhood-maltreatment-confirmed-maltreatment-phenotype---primary.py
+inputModule67:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-classified---primary.py
+inputModule68:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-authority---primary.py
+inputModule69:
+  class: File
+  path: python/childhood-maltreatment-confirmed-maltreatment-phenotype-vtarget---primary.py
+inputModule70:
+  class: File
+  path: python/output-cases.py
